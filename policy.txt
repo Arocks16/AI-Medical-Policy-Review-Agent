@@ -1,0 +1,172 @@
+Insurance Policy Name: Health Secure Plus Plan
+Policy Number: HS12345678
+Policy Holder: Ravi Singh
+Policy Start Date: 01 January 2025
+Policy Valid Till: 31 December 2026
+
+--------------------------------------------------
+1. COVERAGE DETAILS
+--------------------------------------------------
+
+This policy provides reimbursement for the following:
+
+1.1 Hospitalization Coverage:
+- In-patient hospitalization expenses exceeding ₹5,000
+- Room rent up to ₹5,000 per day
+- ICU charges up to ₹10,000 per day
+- Nursing and service charges
+
+1.2 Medical Treatment Coverage:
+- Doctor consultation fees
+- Medicines and consumables
+- Diagnostic tests (lab reports, imaging)
+
+1.3 Chronic Disease Coverage:
+Covered chronic illnesses include:
+- Diabetes (Type 1 & Type 2)
+- Hypertension
+- Cardiac diseases
+- Kidney-related illnesses
+
+1.4 Pre and Post Hospitalization:
+- Pre-hospitalization: 30 days
+- Post-hospitalization: 60 days
+
+--------------------------------------------------
+2. ELIGIBILITY CONDITIONS
+--------------------------------------------------
+
+- Patient must be a registered policyholder
+- Policy must be active at the time of treatment
+- Treatment must be medically necessary
+- Prescription must be issued by a certified doctor
+- Supporting lab reports must be available
+
+--------------------------------------------------
+3. EXCLUSIONS
+--------------------------------------------------
+
+The policy DOES NOT cover:
+
+- Cosmetic or aesthetic treatments
+- Dental procedures (unless due to accident)
+- Experimental or unproven treatments
+- Self-inflicted injuries
+- Substance abuse related treatments
+
+Pre-existing Disease Clause:
+- Diseases existing before policy start are covered ONLY after 12 months waiting period
+
+--------------------------------------------------
+4. FINANCIAL LIMITS
+--------------------------------------------------
+
+- Maximum Annual Claim Limit: ₹2,00,000
+- Maximum per hospitalization: ₹1,00,000
+- Room rent limit: ₹5,000 per day
+- ICU limit: ₹10,000 per day
+
+Sub-limits:
+- Doctor consultation: ₹2,000 per visit
+- Lab tests combined limit: ₹10,000
+- Medicines: As per actuals (within total limit)
+
+--------------------------------------------------
+5. CLAIM DOCUMENT REQUIREMENTS
+--------------------------------------------------
+
+The following documents are mandatory:
+
+- Doctor's prescription
+- Hospital bills (itemized)
+- Lab reports
+- Discharge summary
+- Identity proof of patient
+
+If any document is missing, claim may be rejected.
+
+--------------------------------------------------
+6. CLAIM EVALUATION RULES
+--------------------------------------------------
+
+The claim will be evaluated based on:
+
+- Authenticity of documents
+- Consistency between diagnosis, treatment, and bills
+- Medical necessity of hospitalization
+- Compliance with policy terms and limits
+
+--------------------------------------------------
+7. CLAIM APPROVAL CONDITIONS
+--------------------------------------------------
+
+A claim will be APPROVED if:
+
+- Disease is covered under policy
+- Total expenses exceed deductible (₹5,000)
+- Documents are complete and valid
+- Costs are within defined limits
+- No exclusion criteria applies
+
+--------------------------------------------------
+8. CLAIM REJECTION CONDITIONS
+--------------------------------------------------
+
+A claim will be REJECTED if:
+
+- Treatment is for excluded condition
+- Documents are missing or inconsistent
+- Expenses exceed policy limits without justification
+- Pre-existing disease waiting period not met
+- Non-medical or unnecessary procedures are billed
+
+--------------------------------------------------
+9. PARTIAL APPROVAL RULES
+--------------------------------------------------
+
+Partial claim may be approved when:
+
+- Some expenses exceed allowed limits
+- Certain items are not covered under policy
+- Room rent exceeds allowed cap
+
+--------------------------------------------------
+10. FRAUD DETECTION RULES
+--------------------------------------------------
+
+Claim may be rejected if:
+
+- Bills appear manipulated
+- Duplicate claims are detected
+- Mismatch in patient data across documents
+- Fake prescriptions or lab reports identified
+
+--------------------------------------------------
+11. SPECIAL NOTES
+--------------------------------------------------
+
+- Diabetes-related treatments are covered if diagnosed after policy start OR waiting period satisfied
+- Routine monitoring tests are covered if linked to a valid diagnosis
+- Emergency hospitalization is always prioritized
+
+--------------------------------------------------
+FINAL DECISION LOGIC
+--------------------------------------------------
+
+APPROVED:
+✔ Covered disease
+✔ Valid documents
+✔ Costs within limits
+
+REJECTED:
+✘ Exclusion triggered
+✘ Missing documents
+✘ Policy violation
+
+PARTIALLY APPROVED:
+✔ Some valid expenses
+✘ Some non-covered costs
+
+--------------------------------------------------
+END OF POLICY DOCUMENT
+--------------------------------------------------
