@@ -95,9 +95,5 @@ streamlit run frontend.py
 ---
 
 ## Built With Vibe Coding
-
-This project was developed using Vibe Coding — an iterative AI-assisted development approach where the developer designs the overall flow and describes features, while the AI (via opencode) implements them in real time. The result is a fast, conversational development cycle that prioritizes working software.
-=======
-# AI-Medical-Policy-Review-Agent
 MedVault is an AI-powered medical claim processing assistant. Upload your medical documents (Prescription, Lab Report, Bill), let Gemini OCR extract the data, and then chat with an AI agent that cross-references your claim against your insurance policy using RAG.
 >>>>>>> 21a994b993467ae2840de355748d72b697ba319a
